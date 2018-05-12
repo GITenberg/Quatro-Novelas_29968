@@ -1,0 +1,35 @@
+_repo: Quatro-Novelas_29968
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Osório, Ana de Castro
+    aliases:
+    - De Castro Osório, Ana
+    - Osório, Anna de Castro
+    - Osorio, Ana de Castro
+    - Castro Osório, Ana de
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '32497'
+    url: http://www.gutenberg.org/2009/agents/32497
+    wikipedia: http://pt.wikipedia.org/wiki/Ana_de_Castro_Os%C3%B3rio
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2009-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29968'
+  lccn: '34005461'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PQ'
+tableOfContents: A vinha -- A feiticeira -- Diario duma criança -- Sacrificada.
+title: Quatro Novelas
+url: http://www.gutenberg.org/ebooks/29968
