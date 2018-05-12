@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32497
     wikipedia: http://pt.wikipedia.org/wiki/Ana_de_Castro_Os%C3%B3rio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29968#Quatro-Novelas
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2009-11-06'
 gutenberg_type: Text
